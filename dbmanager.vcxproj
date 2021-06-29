@@ -141,7 +141,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\SQL Lite Reference\c++\sqlite-amalgamation-3360000\sqlite3.c" />
+    <ClCompile Include="addTable.cpp" />
     <ClCompile Include="menu.cpp" />
+    <ClCompile Include="newDatabase.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
